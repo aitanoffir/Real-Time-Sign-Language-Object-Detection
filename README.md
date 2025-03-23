@@ -2,6 +2,12 @@
 
 This Jupyter Notebook demonstrates real-time hand sign detection using a trained YOLOv8 model.
 
+1. Dance
+2. Fourteen
+3. Mustache
+4. Sweetheart
+5. Turtle
+
 ## 📦 Requirements
 
 - Jupyter Notebook
