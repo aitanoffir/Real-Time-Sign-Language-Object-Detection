@@ -19,7 +19,8 @@ This Jupyter Notebook demonstrates real-time hand sign detection using a trained
 2. Open `RTOD.ipynb` in Jupyter
 3. Run cell
 4. Click Start Detection
-5. Click Stop Detection
+5. Show signs to camera
+6. Click Stop Detection
 
 ## 🤖 Model
 
