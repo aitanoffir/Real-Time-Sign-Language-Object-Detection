@@ -23,4 +23,4 @@ This Jupyter Notebook demonstrates real-time hand sign detection using a trained
 
 ## 🤖 Model
 
-You can use the provided `model.pt` or create your own YOLOv8 model trained on chosen sign language gestures.
+You can use the provided `best.pt` or create your own YOLOv8 model trained on chosen sign language gestures.
