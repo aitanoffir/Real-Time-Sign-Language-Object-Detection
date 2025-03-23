@@ -15,7 +15,7 @@ This Jupyter Notebook demonstrates real-time hand sign detection using a trained
 
 ## ▶️ How to Run
 
-1. Clone this repo
+1. Clone this repo `git clone https://github.com/aitanoffir/Real-Time-Sign-Language-Object-Detection.git`
 2. Open `RTOD.ipynb` in Jupyter
 3. Run cell
 4. Click Start Detection
